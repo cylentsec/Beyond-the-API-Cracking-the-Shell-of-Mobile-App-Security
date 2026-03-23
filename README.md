@@ -4,7 +4,7 @@ Information relevant to the conference presentation
 
 ## PowerPoint slides
 
-[PowerPoint Slides PDF](Beyond%20the%20API%20-%20Cracking%20the%20Shell%20of%20Mobile%20App%20Security.pdf")
+[PowerPoint Slides PDF](Beyond%20the%20API%20-%20Cracking%20the%20Shell%20of%20Mobile%20App%20Security.pdf)
 
 ## References and Software
 
