@@ -4,7 +4,7 @@ Information relevant to the conference presentation
 
 ## PowerPoint slides
 
-(TBD)
+[[Beyond the API - Cracking the Shell of Mobile App Security.pdf]]
 
 ## References and Software
 
