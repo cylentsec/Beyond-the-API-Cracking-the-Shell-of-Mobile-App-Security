@@ -6,6 +6,10 @@ Information relevant to the conference presentation
 
 [PowerPoint Slides PDF](Beyond%20the%20API%20-%20Cracking%20the%20Shell%20of%20Mobile%20App%20Security.pdf)
 
+## Examples of MASTG Automation
+
+See TBD
+
 ## References and Software
 
 - [Android Studio](https://developer.android.com/studio) - Android Virtual Machines
@@ -15,7 +19,7 @@ Information relevant to the conference presentation
 - [JADX](https://github.com/skylot/jadx) - Command line and GUI tools for producing Java source code from Android Dex and Apk files
 - [Frida](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [Objection](https://github.com/sensepost/objection) - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
-- [Trellis](https://github.com/cylentsec/Trellis) - Provides static analysis of iOS binaries to detect security-relevant function usage and generates static analysis reports. It also generates Frida scripts for dynamic instrumentation. It runs as a Ghidra script for interactive analysis. The goal of the security analysis is to provide a good balance between eliminating false-positives and false-negatives. Memory addresses and offsets are provided in report findings to aid the analyst's investigation.
+- [Trellis](https://github.com/cylentsec/Trellis) - Ghidra script that provides static analysis of iOS binaries to detect security-relevant function usage to generate static analysis reports and Frida scripts for dynamic instrumentation.
 
 ## Training waitlist signup form
 
