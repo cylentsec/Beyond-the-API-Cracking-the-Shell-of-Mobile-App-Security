@@ -1,5 +1,7 @@
 # Examples of automating the OWASP MASTG
 
+Add shell functions to your `~/.zshrc` or `~/.bashrc` file
+
 ## List all non-Apple applications:
 
 ```bash
