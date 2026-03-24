@@ -29,7 +29,7 @@ See [MASTG-Automation.md](MASTG-Automation.md)
 - [Frida](https://frida.re) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [Objection](https://github.com/sensepost/objection) - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 - [Trellis](https://github.com/cylentsec/Trellis) - Ghidra script that provides static analysis of iOS binaries to detect security-relevant function usage to generate static analysis reports and Frida scripts for dynamic instrumentation.
-- [OWASP Mobile Application Security Testing Guide (MASTG](https://mas.owasp.org/MASTG/)
+- [OWASP Mobile Application Security Testing Guide (MASTG](https://mas.owasp.org/MASTG/) - A comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the OWASP MASVS through the weaknesses defined by the OWASP MASWE.
 
 ## Training waitlist signup form
 
