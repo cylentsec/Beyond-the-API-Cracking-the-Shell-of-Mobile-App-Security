@@ -14,10 +14,6 @@ Steve Campbell
 
 [PowerPoint Slides PDF](Beyond%20the%20API%20-%20Cracking%20the%20Shell%20of%20Mobile%20App%20Security.pdf)
 
-## Examples of MASTG Automation
-
-See [MASTG-Automation.md](MASTG-Automation.md)
-
 ## References and Software
 
 - [Android Studio](https://developer.android.com/studio) - Android Virtual Machines
@@ -30,6 +26,10 @@ See [MASTG-Automation.md](MASTG-Automation.md)
 - [Objection](https://github.com/sensepost/objection) - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 - [Trellis](https://github.com/cylentsec/Trellis) - Ghidra script that provides static analysis of iOS binaries to detect security-relevant function usage to generate static analysis reports and Frida scripts for dynamic instrumentation.
 - [OWASP Mobile Application Security Testing Guide (MASTG](https://mas.owasp.org/MASTG/) - A comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the OWASP MASVS through the weaknesses defined by the OWASP MASWE.
+
+## Examples of MASTG Automation
+
+See [MASTG-Automation.md](MASTG-Automation.md)
 
 ## Training waitlist signup form
 
