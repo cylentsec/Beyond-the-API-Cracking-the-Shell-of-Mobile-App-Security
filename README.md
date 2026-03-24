@@ -2,6 +2,13 @@
 
 Information relevant to the conference presentation
 
+## Whoami
+
+Steve Campbell
+
+[LinkedIn](https://www.linkedin.com/in/hack-the-planet/)
+[Blog](https://www.cylentsec.com/blog/)
+
 ## PowerPoint slides
 
 [PowerPoint Slides PDF](Beyond%20the%20API%20-%20Cracking%20the%20Shell%20of%20Mobile%20App%20Security.pdf)
