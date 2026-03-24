@@ -7,6 +7,7 @@ Information relevant to the conference presentation
 Steve Campbell
 
 [LinkedIn](https://www.linkedin.com/in/hack-the-planet/)
+
 [Blog](https://www.cylentsec.com/blog/)
 
 ## PowerPoint slides
