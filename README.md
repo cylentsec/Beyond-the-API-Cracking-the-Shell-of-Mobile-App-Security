@@ -33,4 +33,4 @@ See [MASTG-Automation.md](MASTG-Automation.md)
 
 ## Training waitlist signup form
 
-Get notified when CylentSec has scheduled training classes: [Email signup form](https://forms.gle/CMdUko9iLCrAeGb86)
+Get notified when CylentSec releases Trellis or has scheduled training classes: [Email signup form](https://forms.gle/CMdUko9iLCrAeGb86)
